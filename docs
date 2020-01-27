@@ -1,0 +1,89 @@
+CNN:
+
+https://www.pyimagesearch.com/2018/12/31/keras-conv2d-and-convolutional-layers/
+https://towardsdatascience.com/demystifying-convolutional-neural-networks-using-class-activation-maps-fe94eda4cef1
+
+RNN/LSTM:
+
+https://blog.octo.com/les-reseaux-de-neurones-recurrents-des-rnn-simples-aux-lstm/
+
+Autoencoder:
+
+https://blog.keras.io/building-autoencoders-in-keras.html
+
+CNN-Autoencoder:
+
+https://towardsdatascience.com/convolutional-autoencoders-for-image-noise-reduction-32fce9fc1763
+
+Batch Normalization:
+
+https://en.wikipedia.org/wiki/Batch_normalization
+
+Minibatch GD (for linear regression):
+
+https://www.geeksforgeeks.org/ml-mini-batch-gradient-descent-with-python/
+
+Minibatch GD (neural network):
+
+https://wiseodd.github.io/techblog/2016/06/21/nn-sgd/
+
+Linear Regression:
+
+https://fr.wikipedia.org/wiki/R%C3%A9gression_lin%C3%A9aire
+https://towardsdatascience.com/analytical-solution-of-linear-regression-a0e870b038d5
+
+Multiple Linear Regression from scratch:
+
+https://towardsdatascience.com/multiple-linear-regression-from-scratch-in-numpy-36a3e8ac8014
+
+MSE gradient:
+
+http://www.1-4-5.net/~dmm/ml/mse.pdf
+
+Optimizer:
+
+https://mlfromscratch.com/optimizers-explained/#/
+
+PCA:
+
+https://towardsdatascience.com/principal-component-analysis-for-dimensionality-reduction-115a3d157bad
+
+ResNet:
+
+https://en.wikipedia.org/wiki/Residual_neural_network
+https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035
+
+ImageNet:
+
+https://towardsdatascience.com/how-to-scrape-the-imagenet-f309e02de1f4
+https://machinelearningmastery.com/introduction-to-the-imagenet-large-scale-visual-recognition-challenge-ilsvrc/
+
+
+Momentum/Nesterov momentum:
+
+https://dominikschmidt.xyz/nesterov-momentum/
+https://medium.com/konvergen/momentum-method-and-nesterov-accelerated-gradient-487ba776c987
+
+Transfer learning:
+
+https://machinelearningmastery.com/transfer-learning-for-deep-learning/
+
+Partial Conv:
+
+https://github.com/NVIDIA/partialconv
+
+Unet:
+
+https://www.google.com/search?client=firefox-b-d&q=Unet
+
+DCGANs:
+
+https://towardsdatascience.com/dcgans-generating-dog-images-with-tensorflow-and-keras-fb51a1071432
+
+Real Time Noise filtering:
+
+https://www.youtube.com/watch?v=HSmm_vEVs10
+
+Interesting youtube channel:
+
+https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg
