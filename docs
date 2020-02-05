@@ -105,3 +105,9 @@ https://towardsdatascience.com/gaussian-mixture-models-explained-6986aaf5a95
 EM (algo):
 https://machinelearningmastery.com/expectation-maximization-em-algorithm/
 http://www-prima.imag.fr/Prima/jlc/Courses/2006/ENSI2.SIRR/EM-tutorial.pdf
+
+(with gaussian mixture)
+https://towardsdatascience.com/inference-using-em-algorithm-d71cccb647bc
+
+Hidden Markov model:
+https://web.stanford.edu/~jurafsky/slp3/A.pdf
