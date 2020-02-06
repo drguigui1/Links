@@ -111,6 +111,9 @@ http://www-prima.imag.fr/Prima/jlc/Courses/2006/ENSI2.SIRR/EM-tutorial.pdf
 (with gaussian mixture)
 https://towardsdatascience.com/inference-using-em-algorithm-d71cccb647bc
 
+GMM/EM (Implem):
+https://github.com/Magho/Fitting-Gaussian-Mixture-Models-with-EM/blob/master/3_em-for-gmm_gl.ipynb.ipynb
+
 Hidden Markov model:
 https://web.stanford.edu/~jurafsky/slp3/A.pdf
 
