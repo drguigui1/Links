@@ -73,7 +73,7 @@ Partial Conv:
 https://github.com/NVIDIA/partialconv
 
 Unet:
-
+https://fr.wikipedia.org/wiki/U-Net
 https://www.google.com/search?client=firefox-b-d&q=Unet
 
 DCGANs:
@@ -102,7 +102,14 @@ https://hal.archives-ouvertes.fr/hal-01392909/document
 Gaussian Mixture:
 https://towardsdatascience.com/gaussian-mixture-models-explained-6986aaf5a95
 https://towardsdatascience.com/gaussian-mixture-models-d13a5e915c8e
+http://people.csail.mit.edu/dsontag/courses/ml12/slides/lecture21.pdf
+
+
+(Important)
 https://brilliant.org/wiki/gaussian-mixture-model/
+http://yulearning.blogspot.com/2014/11/einsteins-most-famous-equation-is-emc2.html
+https://www.youtube.com/watch?v=JNlEIEwe-Cg
+http://web.iitd.ac.in/~sumeet/GMM_said_crv10_tutorial.pdf
 
 EM (algo):
 https://machinelearningmastery.com/expectation-maximization-em-algorithm/
