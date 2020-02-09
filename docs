@@ -126,6 +126,9 @@ https://towardsdatascience.com/inference-using-em-algorithm-d71cccb647bc
 GMM/EM (Implem):
 https://github.com/Magho/Fitting-Gaussian-Mixture-Models-with-EM/blob/master/3_em-for-gmm_gl.ipynb.ipynb
 
+GMM for speaker verification:
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.117.338&rep=rep1&type=pdf
+
 Hidden Markov model:
 https://web.stanford.edu/~jurafsky/slp3/A.pdf
 
