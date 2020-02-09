@@ -14,6 +14,7 @@ https://blog.keras.io/building-autoencoders-in-keras.html
 CNN-Autoencoder:
 
 https://towardsdatascience.com/convolutional-autoencoders-for-image-noise-reduction-32fce9fc1763
+https://blog.keras.io/building-autoencoders-in-keras.html
 
 Batch Normalization:
 
@@ -106,10 +107,14 @@ http://people.csail.mit.edu/dsontag/courses/ml12/slides/lecture21.pdf
 
 
 (Important)
+https://www.youtube.com/watch?v=qMTuMa86NzU
 https://brilliant.org/wiki/gaussian-mixture-model/
 http://yulearning.blogspot.com/2014/11/einsteins-most-famous-equation-is-emc2.html
 https://www.youtube.com/watch?v=JNlEIEwe-Cg
 http://web.iitd.ac.in/~sumeet/GMM_said_crv10_tutorial.pdf
+
+(Best tutorial for GMM + EM):
+https://www.python-course.eu/expectation_maximization_and_gaussian_mixture_models.php
 
 EM (algo):
 https://machinelearningmastery.com/expectation-maximization-em-algorithm/
