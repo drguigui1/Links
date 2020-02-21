@@ -1,5 +1,9 @@
 SVM:
 https://cling.csd.uwo.ca/cs860/papers/SVM_Explained.pdf
+https://github.com/ajtulloch/svmpy/blob/master/svmpy/svm.py
+
+Linear SVM:
+https://medium.com/deep-math-machine-learning-ai/chapter-3-1-svm-from-scratch-in-python-86f93f853dc
 
 CNN:
 
