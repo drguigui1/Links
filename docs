@@ -35,10 +35,21 @@ Linear Regression:
 
 https://fr.wikipedia.org/wiki/R%C3%A9gression_lin%C3%A9aire
 https://towardsdatascience.com/analytical-solution-of-linear-regression-a0e870b038d5
+http://mezeylab.cb.bscb.cornell.edu/labmembers/documents/supplement%205%20-%20multiple%20regression.pdf
 
 Multiple Linear Regression from scratch:
 
 https://towardsdatascience.com/multiple-linear-regression-from-scratch-in-numpy-36a3e8ac8014
+
+Logistic Regression:
+
+https://mrmint.fr/logistic-regression-machine-learning-introduction-simple
+https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
+
+Polynomiale Regression:
+
+https://mrmint.fr/regression-polynomiale
+https://towardsdatascience.com/polynomial-regression-bbe8b9d97491
 
 MSE gradient:
 
